@@ -79,8 +79,8 @@ npm install @angular/cdk @fortawesome/angular-fontawesome @fortawesome/fontaweso
 "styles": [
   "node_modules/bootstrap/scss/bootstrap.scss",
   "node_modules/bootstrap-icons/font/bootstrap-icons.css",
-  "node_modules/ngx-sharebuttons/themes/circles/circles-dark-theme.scss",
-  "node_modules/ngx-sharebuttons/themes/modern/modern-dark-theme.scss",
+  "node_modules/ngx-sharebuttons/themes/circles.scss",
+  "node_modules/ngx-sharebuttons/themes/modern.scss",
   "src/styles.scss"
 ],
 ```
