@@ -1,15 +1,15 @@
 # Angular Share Buttons
 
 
-Application example built with [Angular 12](https://angular.io/) and adding the social media share buttons component using the [ngx-sharebuttons](https://www.npmjs.com/package/ngx-sharebuttons) library.
+Application example built with [Angular 13](https://angular.io/) and adding the social media share buttons component using the [ngx-sharebuttons](https://www.npmjs.com/package/ngx-sharebuttons) library.
 
 This post was made on my [blog](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-botoes-de-compartilhamento-com-midias-sociais-em-uma-aplicacao-angular) in portuguese and on the [DEV Community](https://dev.to/rodrigokamada/adding-the-social-media-share-buttons-component-to-an-angular-application-320h).
 
 
 
-[![Website](https://shields.braskam.com/v1/shields?name=website&format=rectangle&size=small)](https://rodrigo.kamada.com.br)
-[![LinkedIn](https://shields.braskam.com/v1/shields?name=linkedin&format=rectangle&size=small)](https://www.linkedin.com/in/rodrigokamada)
-[![Twitter](https://shields.braskam.com/v1/shields?name=twitter&format=rectangle&size=small&socialAccount=rodrigokamada)](https://twitter.com/rodrigokamada)
+[![Website](https://shields.braskam.com/v1/shields?name=website&format=rectangle&size=small&radius=5)](https://rodrigo.kamada.com.br)
+[![LinkedIn](https://shields.braskam.com/v1/shields?name=linkedin&format=rectangle&size=small&radius=5)](https://www.linkedin.com/in/rodrigokamada)
+[![Twitter](https://shields.braskam.com/v1/shields?name=twitter&format=rectangle&size=small&radius=5&socialAccount=rodrigokamada)](https://twitter.com/rodrigokamada)
 
 
 
@@ -65,7 +65,7 @@ CREATE angular-sharebuttons/src/app/app.component.ts (225 bytes)
 ✔ Packages installed successfully.
 ```
 
-**2.** Install and configure the Bootstrap CSS framework. Do steps 2 and 3 of the post *[Adding the Bootstrap CSS framework to an Angular application](https://dev.to/rodrigokamada/adding-the-bootstrap-css-framework-to-an-angular-application-2k40)*.
+**2.** Install and configure the Bootstrap CSS framework. Do steps 2 and 3 of the post *[Adding the Bootstrap CSS framework to an Angular application](https://github.com/rodrigokamada/angular-bootstrap)*.
 
 **3.** Install the `@angular/cdk`, `@fortawesome/angular-fontawesome`, `@fortawesome/fontawesome-svg-core`, `@fortawesome/free-brands-svg-icons`, `@fortawesome/free-solid-svg-icons` and `ngx-sharebuttons` libraries.
 
@@ -169,7 +169,7 @@ Build at: 2021-08-22T20:20:39.646Z - Hash: b18162a20902dbc8f4cf - Time: 20556ms
 
 **9.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-sharebuttons/) and [Stackblitz](https://stackblitz.com/edit/angular12-sharebuttons).
 
-![Angular Share Buttons](docs/images/angular-sharebuttons.png)
+![Angular Share Buttons](https://res.cloudinary.com/rodrigokamada/image/upload/v1637626111/Blog/angular-sharebuttons/angular-sharebuttons.png)
 
 
 
