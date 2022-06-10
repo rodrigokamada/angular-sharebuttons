@@ -16,7 +16,8 @@ import { AppComponent } from './app.component';
     ShareButtonsModule,
     ShareIconsModule,
   ],
-  providers: [],
+  providers: [
+  ],
   bootstrap: [
     AppComponent,
   ],

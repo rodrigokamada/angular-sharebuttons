@@ -1,7 +1,7 @@
 # Angular Share Buttons
 
 
-Application example built with [Angular](https://angular.io/) 13 and adding the social media share buttons component using the [ngx-sharebuttons](https://www.npmjs.com/package/ngx-sharebuttons) library.
+Application example built with [Angular](https://angular.io/) 14 and adding the social media share buttons component using the [ngx-sharebuttons](https://www.npmjs.com/package/ngx-sharebuttons) library.
 
 This post was made on my [blog](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-botoes-de-compartilhamento-com-midias-sociais-em-uma-aplicacao-angular) in portuguese and on the [DEV Community](https://dev.to/rodrigokamada/adding-the-social-media-share-buttons-component-to-an-angular-application-320h).
 
@@ -167,7 +167,7 @@ Build at: 2021-08-22T20:20:39.646Z - Hash: b18162a20902dbc8f4cf - Time: 20556ms
 ✔ Compiled successfully.
 ```
 
-**9.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-sharebuttons/) and [Stackblitz](https://stackblitz.com/edit/angular13-sharebuttons).
+**9.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-sharebuttons/) and [Stackblitz](https://stackblitz.com/edit/angular14-sharebuttons).
 
 ![Angular Share Buttons](https://res.cloudinary.com/rodrigokamada/image/upload/v1637626111/Blog/angular-sharebuttons/angular-sharebuttons.png)
 
