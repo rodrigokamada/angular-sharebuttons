@@ -28,7 +28,7 @@
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
     "@fortawesome/free-brands-svg-icons": "^6.3.0",
     "@fortawesome/free-solid-svg-icons": "^6.3.0",
-    "bootstrap": "^5.2.1",
+    "bootstrap": "^5.2.3",
     "bootstrap-icons": "^1.9.1",
     "ngx-sharebuttons": "^11.0.0",
     "rxjs": "~7.5.6",
