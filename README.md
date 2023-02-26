@@ -1,7 +1,7 @@
 # Angular Share Buttons
 
 
-Application example built with [Angular](https://angular.io/) 14 and adding the social media share buttons component using the [ngx-sharebuttons](https://www.npmjs.com/package/ngx-sharebuttons) library.
+Application example built with [Angular](https://angular.io/) 15 and adding the social media share buttons component using the [ngx-sharebuttons](https://www.npmjs.com/package/ngx-sharebuttons) library.
 
 This post was made on my [blog](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-botoes-de-compartilhamento-com-midias-sociais-em-uma-aplicacao-angular) in portuguese and on the [DEV Community](https://dev.to/rodrigokamada/adding-the-social-media-share-buttons-component-to-an-angular-application-320h).
 
