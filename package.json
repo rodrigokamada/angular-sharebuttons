@@ -30,7 +30,7 @@
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
     "bootstrap": "^5.2.3",
     "bootstrap-icons": "^1.10.3",
-    "ngx-sharebuttons": "^11.0.0",
+    "ngx-sharebuttons": "^12.0.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.5.0",
     "zone.js": "~0.12.0"
